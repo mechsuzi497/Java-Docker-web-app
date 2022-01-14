@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Sujit DevOps</h2>
-			<h3> Contact for devops projects. (Git, Maven, Tomcat, Docker, Kuberneties)
+			<h3> Contact for devops projects. (Git, Jenkins, Maven, Tomcat, Docker, Kuberneties, AWS)
 			<h4>Contact @ +91-8374259491</h3>
 		</div>	
 	</div>
